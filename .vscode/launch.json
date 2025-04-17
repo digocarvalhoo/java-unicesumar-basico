@@ -1,0 +1,126 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "testeiffalse",
+            "request": "launch",
+            "mainClass": "testeiffalse",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "testebreak",
+            "request": "launch",
+            "mainClass": "testebreak",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "teste2",
+            "request": "launch",
+            "mainClass": "teste2",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "Exchance",
+            "request": "launch",
+            "mainClass": "Exchance",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "testeif",
+            "request": "launch",
+            "mainClass": "testeif",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "testecontinue",
+            "request": "launch",
+            "mainClass": "testecontinue",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "Livro",
+            "request": "launch",
+            "mainClass": "Livro",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "condicao",
+            "request": "launch",
+            "mainClass": "condicao",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "logico",
+            "request": "launch",
+            "mainClass": "logico",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Eleitor",
+            "request": "launch",
+            "mainClass": "Eleitor",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "Exchange",
+            "request": "launch",
+            "mainClass": "Exchange",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "InOut",
+            "request": "launch",
+            "mainClass": "InOut",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "ParImpar",
+            "request": "launch",
+            "mainClass": "ParImpar",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "PopUp",
+            "request": "launch",
+            "mainClass": "PopUp",
+            "projectName": "JavaUnicesumar_f7841aea"
+        },
+        {
+            "type": "java",
+            "name": "TesteVariavel",
+            "request": "launch",
+            "mainClass": "TesteVariavel",
+            "projectName": "JavaUnicesumar_f7841aea"
+        }
+    ]
+}
